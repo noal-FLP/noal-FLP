@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Oi sou Felipe Noal 
+Sou um estudante da Alura <3
 <!--
 **noal-FLP/noal-FLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
